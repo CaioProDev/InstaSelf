@@ -2,4 +2,4 @@
  este é um desafio de projeto proposto pela Dio.
  
 * [HTML Básico](https://www.w3schools.com/html/)
-*    CSS Básico
+* [CSS Básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
